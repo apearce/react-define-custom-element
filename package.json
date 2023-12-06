@@ -1,0 +1,25 @@
+{
+  "name": "react-define-custom-element",
+  "version": "0.0.1",
+  "description": "Define a custom element from a React component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apearce/react-define-custom-element.git"
+  },
+  "author": "Alan Pearce <alan.pearce@alttag.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apearce/react-define-custom-element/issues"
+  },
+  "homepage": "https://github.com/apearce/react-define-custom-element#readme",
+  "dependencies": {
+    "is-potential-custom-element-name": "^1.0.1"
+  },
+  "peerDependencies": {
+    "react-dom": ">=18.0.0"
+  }
+}
